@@ -976,7 +976,7 @@ select::-ms-expand {
     position: absolute;
     height: 100%;
     width: 100%;
-    background-image: url('/images/logo1.jpg');
+    background-image: url('');
     background-size: contain;
     background-position: 50%;
     background-repeat: no-repeat;
